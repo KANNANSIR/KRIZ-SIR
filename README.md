@@ -19,7 +19,7 @@
 </p>
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KRIZsir/KRIZ-SIR/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SIR/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -156,9 +156,9 @@ you can contact us
   </div>
  
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7Dd9AcaUs2b7g1)
 
 # Thanks To
-* [`KRIZ`](https://github.com/KRIZsir)
+* [`KRIZ`](https://github.com/KANNANSIR)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
