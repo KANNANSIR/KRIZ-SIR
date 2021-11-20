@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://i.imgur.com/o9ySNtz.jpegv1?label=Language&message=English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="KRIZ-BOT-V1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
  <a href="https://github.com/KRIZsir"><img title="Author" src="https://img.shields.io/badge/Author-KRIZ-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919633687665?text=Hello%20KRIZ%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-KRIZ-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
@@ -38,19 +38,19 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/KRIZsir/KRIZ-SIR/blob/master/session.json#L1)
+[`Click Here`](https://github.com/KANNANSIR/KRIZ-SIR/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/KRIZsir/KRIZ-SIR/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/KRIZsir/KRIZ-SIR/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/KANNANSIR/KRIZ-SIR/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/KANNANSIR/KRIZ-SIR/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 
 
 ``` 
-git clone https://github.com/KRIZsir/KRIZ-SIR.git
+git clone https://github.com/KANNANSIR/KRIZ-SIR.git
 ```
 ```
 cd KRIZ-SIR
