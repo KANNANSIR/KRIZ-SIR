@@ -19,13 +19,13 @@
 </p>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SIR)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SERV2)
 
 # ```KRIZ-SIR-BOT```
 
 `SCAN QR`
 
-[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SIR-QR-Code)
+[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SERV2-QR-Code)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
