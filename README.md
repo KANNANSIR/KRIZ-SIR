@@ -20,9 +20,12 @@
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SIR)
+
 # ```KRIZ-SIR-BOT```
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
+`SCAN QR`
+
+[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SIR-QR-Code)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
