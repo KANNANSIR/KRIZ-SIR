@@ -18,8 +18,9 @@
 <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-KRIZSIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
-## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SIR/)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KANNANSIR/KRIZ-SIR)
+# ```KRIZ-SIR-BOT```
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
