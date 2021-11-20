@@ -25,7 +25,7 @@
 
 `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SIR-QR-Code)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
