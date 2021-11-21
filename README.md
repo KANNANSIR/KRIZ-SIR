@@ -25,7 +25,7 @@
 
 `SCAN QR`
 
-[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SIR-QR-Code?v=1)
+[`Click Here`](https://replit.com/@KANNANSIR/KRIZ-SIR-Qr-code?v=1)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
